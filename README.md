@@ -6,7 +6,7 @@
 
 "Committed to SOLID Principles, Clean Code, W3C Standards and optimized infrastructures"
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px; margin-top: 16px;">
-    <a href="https://linkedin.com/in/soy-daniel-hidalgo">
+    <a href="https://linkedin.com/in/soydanielhidalgo">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
     <a href="https://danielhidalgo.dev">
@@ -86,15 +86,15 @@ As a web developer with a background as a Senior Technician in Network Computer 
 
 ## <img src="images/cat-making-projects.gif" width="28" alt="Kitty making projects"> About My Projects
 
-I build and share most of my projects here on **GitHub** and **LinkedIn**. Feel free to explore [all my repositories](https://github.com/soy-daniel-hidalgo?tab=repositories) or check out my pinned projects below to see my best work.
+I build and share most of my projects here on **GitHub** and **LinkedIn**. Feel free to explore [all my repositories](https://github.com/soydanielhidalgo?tab=repositories) or check out my pinned projects below to see my best work.
 
-If you find my work helpful and would like to support me, feel free to [sponsor me on GitHub](https://github.com/sponsors/soy-daniel-hidalgo)! 💖
+If you find my work helpful and would like to support me, feel free to [sponsor me on GitHub](https://github.com/sponsors/soydanielhidalgo)! 💖
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/soy-daniel-hidalgo/soy-daniel-hidalgo/blob/output/github-snake-dark.svg" alt="GitHub snake dark theme" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/soy-daniel-hidalgo/soy-daniel-hidalgo/blob/output/github-snake.svg" alt="GitHub snake light theme" />
-    <img src="https://github.com/soy-daniel-hidalgo/soy-daniel-hidalgo/blob/output/github-snake.svg" alt="GitHub snake default theme" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/soydanielhidalgo/soydanielhidalgo/blob/output/github-snake-dark.svg" alt="GitHub snake dark theme" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/soydanielhidalgo/soydanielhidalgo/blob/output/github-snake.svg" alt="GitHub snake light theme" />
+    <img src="https://github.com/soydanielhidalgo/soydanielhidalgo/blob/output/github-snake.svg" alt="GitHub snake default theme" />
   </picture>
   <br/>
   <sub>A snake's eating my GitHub contributions!</sub>
@@ -102,6 +102,6 @@ If you find my work helpful and would like to support me, feel free to [sponsor 
 
 ## <img src="images/e-mail.gif" width="28" alt="Envelope with hearts icon"> How to Reach Me
 
-- 💼 **Job Opportunities:** I am open to roles in **software development** and **IT**. If you are looking for a self-taught, problem-solving professional, let's connect on [LinkedIn](https://linkedin.com/in/soy-daniel-hidalgo).
+- 💼 **Job Opportunities:** I am open to roles in **software development** and **IT**. If you are looking for a self-taught, problem-solving professional, let's connect on [LinkedIn](https://linkedin.com/in/soydanielhidalgo).
 - 📧 **Direct Contact:** Have a question or want to talk? Send me an email at [contact@danielhidalgo.dev](mailto:contact@danielhidalgo.dev).
 - 🌐 **Portfolio:** Curious to see more of my work? Check out my [online portfolio](https://danielhidalgo.dev/).
