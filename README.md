@@ -7,13 +7,13 @@
 "Committed to SOLID Principles, Clean Code, W3C Standards and optimized infrastructures"
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px; margin-top: 16px;">
     <a href="https://linkedin.com/in/soydanielhidalgo">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
     <a href="https://danielhidalgo.dev">
-      <img src="https://img.shields.io/badge/Portfolio-%23F76F53.svg?style=for-the-badge&logo=zenbrowser&logoColor=white" alt="My portfolio">
+      <img src="https://img.shields.io/badge/Portfolio-F76F53?style=for-the-badge&logo=zenbrowser&logoColor=white" alt="My portfolio">
     </a>
     <a href="mailto:contact@danielhidalgo.dev">
-      <img src="https://img.shields.io/badge/Email-6d4aff?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email">
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
     </a>
   </div>
 
