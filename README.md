@@ -33,13 +33,13 @@ As a web developer with a background as a Senior Technician in Network Computer 
     <td width="50%">
       <h3 align="center"><strong>Front-end</strong></h3>
       <div align="center">
-        <p><img src="https://skillicons.dev/icons?i=html,css,js,jquery,typescript,react" alt="My Front-end tools"></p>
+        <p><img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,tailwindcss" alt="My Front-end tools"></p>
       </div>
     </td>
     <td width="50%">
       <h3 align="center"><strong>Back-end</strong></h3>
       <div align="center">
-        <p><img src="https://skillicons.dev/icons?i=nodejs,npm,express,postman" alt="My Back-end tools"></p>
+        <p><img src="https://skillicons.dev/icons?i=nodejs,npm,express,postman,jest" alt="My Back-end tools"></p>
       </div>
     </td>
   </tr>
@@ -47,13 +47,13 @@ As a web developer with a background as a Senior Technician in Network Computer 
     <td width="50%">
       <h3 align="center"><strong>Databases</strong></h3>
       <div align="center">
-        <p><img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Databases I use"></p>
+        <p><img src="https://skillicons.dev/icons?i=postgresql,mongodb" alt="Databases I use"></p>
       </div>
     </td>
     <td width="50%">
       <h3 align="center"><strong>Development Tools</strong></h3>
       <div align="center">
-        <img src="https://skillicons.dev/icons?i=neovim,vscode,bash,git,github,markdown" alt="Development tools I like">
+        <img src="https://skillicons.dev/icons?i=vscode,bash,git,github,markdown" alt="Development tools I like">
       </div>
     </td>
   </tr>
