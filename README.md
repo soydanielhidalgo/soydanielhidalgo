@@ -22,7 +22,7 @@
 ## <img src="images/waving-hand.gif" width="28" alt="Waving hand emoji"> About Me
 Hello there! 👋. I'm Daniel Hidalgo, my profile stems from the combination of <b>computer network systems management</b> and the creativity for problem-solving inherent in <b>web development</b>.
 
-As a web developer with a background as a Senior Technician in Network Computer Systems Administration, I focus on building efficient, scalable, and clean-coded applications. Rather than just writing code or solving isolated IT issues. I am passionate about coding and computer science, I'm learning a bit more about it everyday. <b>ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧</b>
+As a Senior Technician in Network Computer Systems Administration, I focus on building efficient, scalable, and clean-coded applications. Rather than just writing code or solving isolated IT issues. I am passionate about coding and computer science, I'm learning a bit more about it everyday. <b>ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧</b>
 
 ## <img src="images/flexed-biceps.gif" width="28" alt="Flexed bicep emoji"> My Skills
 
